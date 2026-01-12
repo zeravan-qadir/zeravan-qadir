@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Zeravan
 
-<!--
-**zeravan-qadir/zeravan-qadir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring DevOps Engineer  
+💻 Interested in Linux, Docker, Kubernetes, CI/CD, and Cloud  
+📚 Currently learning: Linux fundamentals, Git & GitHub, and Docker
 
-Here are some ideas to get you started:
+## 🔧 Tools & Technologies
+- Git & GitHub  
+- Linux (CLI)  
+- Docker & Containers  
+- Jenkins (CI/CD)  
+- Basics of Networking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals for 2026
+- Build real DevOps projects
+- Automate deployments with Jenkins + Ansible
+- Learn Kubernetes for container orchestration
+- Contribute to open-source projects
+
+## 📫 Reach Me
+- GitHub: [zeravan-qadir](https://github.com/zeravan-qadir)
+
+---
+
+⭐ I believe in learning by doing, breaking things, and fixing them again!
